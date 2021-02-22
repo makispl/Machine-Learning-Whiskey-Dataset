@@ -3,6 +3,7 @@
 [Whiskey Dataset ~ K-Means Clustering, Logistic Regression, EDA & Web-Scrapping]
 
 ## Introduction
+
 The project’s domain relies on the most popular liquor in the world —  **Whiskey**. A dark spirit coming from a great variety of grains, distilled throughout the world and arriving at quite a number of styles (Irish, Scotch, Bourbon etc) [1]. Scotland, Ireland, Canada & Japan are among the famous exporters and on an international scale, the global production almost reaches the level of $95m revenue [2].
 
 ## Scope
@@ -29,13 +30,13 @@ The Data Corp I work for, accepted a new project: assisting a renowned Whiskey V
 
 * The new Clusters distinguish themselves better.
 * Cluster #1 is way better when it comes to terms of `rating`, while also including Single Malt Scotch {#321}, Blended Scotch Whisky {#33} and Blended Malt Scotch Whisky {#9} —  thus, variety guaranteed!
-* The analysis takes into account more features (`rating`, `alcohol`, `age`) than the initially attempted (`*rating*`), proving the point that clustering promotes a more comprehensive separation of data, deriving from signals of more components.
+* The analysis takes into account more features (`rating`, `alcohol`, `age`) than the initially attempted (`rating`), proving the point that clustering promotes a more comprehensive separation of data, deriving from signals of more components.
 
 
 
-<img src="/Users/gerasimosplegas/Dropbox/DS/Dataquest/Makis Projects/Whiskey/Plots/scatter_plot3d@2x.png" style="zoom:50%;" />
+<img src="/Users/gerasimosplegas/Desktop/Machine-Learning-Whiskey-Dataset/Plots/scatter_plot3d@2x.png" style="zoom:50%;" />
 
-<img src="/Users/gerasimosplegas/Dropbox/DS/Dataquest/Makis Projects/Whiskey/Plots/scatter_plot@2x.png" alt="mk" style="zoom:50%;" />
+<img src="/Users/gerasimosplegas/Desktop/Machine-Learning-Whiskey-Dataset/Plots/scatter_plot@2x.png" alt="mk" style="zoom:50%;" />
 
 ## Additional Analysis
 There is quite a number of additional analyses to be performed, expanding this one. You are welcome to extend and shape yours in any direction you may prefer. For instance, you can additionally try and fit a different Supervised ML model and predict either the same independent variable (`cluster`) or another one (i.e. `price`).
