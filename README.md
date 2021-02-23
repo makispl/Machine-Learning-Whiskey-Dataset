@@ -1,6 +1,6 @@
 # Machine Learning ‘on the rocks’ 🥃
 
-[Whiskey Dataset ~ K-Means Clustering, Logistic Regression, EDA & Web-Scrapping]
+[Whiskey Dataset ~ K-Means Clustering, Logistic Regression & EDA]
 
 ## Introduction
 
@@ -13,11 +13,11 @@ The main scope, hereof, is to introduce in a… ‘companionable’ way, how hel
 
 The Data Corp I work for, accepted a new project: assisting a renowned Whiskey Vendor to diversify. That is, to bring in light which whiskey varieties are better sold and with that in mind, make the appropriate mergers / acquisitions, to boost sales contextually. The main handicap, though, is that the Vendor does not possess any Sales data from the competitors (aka prospective acquisition targets). But:
 
-*How about scrapping from the web, whiskey-related data including any attributes (i.e. age, taste, type, price and so on), categorising them in a meaningful for the Vendor way and finally guide them on what specific bottles they should invest in?*
+*How about using whiskey-related data including any attributes (i.e. age, taste, type, price and so on), categorising them in a meaningful for the Vendor way and finally guide them on what specific bottles they should invest in?*
 
 ## Roadmap
 
-1. Set up the **environment** to run the code and develop a **Web-Scrapper**, to fetch all the relevant whiskey data from the site.
+1. Set up the **environment** to run the code.
 2. Perform **EDA** using Numpy, Pandas & a number of additional Python libraries.
 3. Reveal additional data patterns, by fitting a **K-Means Clustering** algorithm to the dataset. 
 4. Using the now labeled dataset (clusters = labels), implement a Multiclassification technique — **Logistic Regression** — to make predictions on new listings (whiskies).
