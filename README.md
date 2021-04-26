@@ -1,7 +1,8 @@
 
 # Machine Learning ‘on the rocks’ 🥃
 
-[Whiskey Dataset ~ K-Means Clustering, Logistic Regression & EDA]
+[Whiskey Dataset ~ K-Means Clustering, Logistic Regression & EDA | Originally published on Medium via the Towards Data Science [publication](https://towardsdatascience.com/machine-learning-on-the-rocks-f49f75219c02)]
+
 ## Introduction
 
 The project’s domain relies on the most popular liquor in the world —  **Whiskey**. A dark spirit coming from a great variety of grains, distilled throughout the world and arriving at quite a number of styles (Irish, Scotch, Bourbon etc) [1]. Scotland, Ireland, Canada & Japan are among the famous exporters and on an international scale, the global production almost reaches the level of $95m revenue [2].
